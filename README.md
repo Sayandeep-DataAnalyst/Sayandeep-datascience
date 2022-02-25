@@ -6,7 +6,7 @@ I have a growing interest in the recent trends of data analytics tools and techn
 
 Skills: Python / Pandas / SQL / R / Tableau / Excel / 
 
-- 🌱 I’m currently learning Machine learning, AI, Flask, Django 
+- 🌱 I’m currently learning Big data, Machine learning, AI, Flask
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayandeep-Datascience)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayandeepsinha16//)  
