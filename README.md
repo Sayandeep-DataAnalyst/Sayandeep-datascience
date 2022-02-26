@@ -4,9 +4,9 @@
 
 I have a growing interest in the recent trends of data analytics tools and technologies applied to different branches of business in different domains either as a data analyst. At the present clock, my fascination for data analytics and machine learning grabbed my urge to explore the convergence of both statistics and programming.
 
-✔️My key skills... 
-∘Programming/Frameworks: Python, R, SQL                                                                                                                                  ∘Visualization: Tableau,PowerBI, Matplotlib, Plotly 
-∘Analytical Techniques: Machine Learning, Regression Analysis, Classification, Clustering, Random Forests, Time Series
+✔️My key skills...                                                                                                                                                              
+💻Programming/Frameworks: Python, R, SQL                                                                                                                                
+📊Visualization: Tableau,PowerBI, Matplotlib, Plotly                                                                                                                              #📐Analytical Techniques: Machine Learning, Regression Analysis, Classification, Clustering, Random Forests, Time Series
 
 - 🌱 I’m currently learning NLP, Deep Learning, Neural Networks 
 - 👯 I’m looking to collaborate on If you want to have a chat, please don't hesitate to reach out to me 
