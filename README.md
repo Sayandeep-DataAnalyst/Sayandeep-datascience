@@ -1,4 +1,4 @@
-### Hello all, my name is Sayandeep 👋
+### Hello all, my name is Sayandeep! 👋
 #### I'm currently looking for job role in Data Analyst
 ![Data Analyst](https://media-exp1.licdn.com/dms/image/C5616AQHStwUwcEE_fg/profile-displaybackgroundimage-shrink_200_800/0/1622669153587?e=1647475200&v=beta&t=ZvsJpwCsmmD-KLsnRpjD3zAPyvspgfauA2bNZ3RZcUk)
 
