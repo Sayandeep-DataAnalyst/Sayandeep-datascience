@@ -1,10 +1,11 @@
-### Hi there 👋, my name is Sayandeep
-#### Data Analyst
+### Hello all, my name is Sayandeep 👋
+#### I'm currently looking for job role in Data Analyst
 ![Data Analyst](https://media-exp1.licdn.com/dms/image/C5616AQHStwUwcEE_fg/profile-displaybackgroundimage-shrink_200_800/0/1622669153587?e=1647475200&v=beta&t=ZvsJpwCsmmD-KLsnRpjD3zAPyvspgfauA2bNZ3RZcUk)
 
 I have a growing interest in the recent trends of data analytics tools and technologies applied to different branches of business in different domains either as a data analyst. At the present clock, my fascination for data analytics and machine learning grabbed my urge to explore the convergence of both statistics and programming.
 
-Skills: Python / Pandas / SQL / R / Tableau / Excel / 
+My skills include... 
+Programming/Framework :Python / SQL / R / 
 
 - 🌱 I’m currently learning Big data, Machine learning, AI, Flask
 
