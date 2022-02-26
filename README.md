@@ -1,5 +1,5 @@
 ### Hello all, my name is Sayandeep! 👋
-#### 💼Currently I'm looking for job role in Data Analyst
+#### 💼Currently I'm looking for a job role in Data Analyst
 ![💼Currently I'm looking for job role in Data Analyst](https://academy.vertabelo.com/blog/how-to-become-a-data-analyst/How-to-Become-a-Data-Analyst_hu5cf6d2fae9993b23146dfd2adc166044_197627_980x400_fill_box_center_2.png)
 
 I have a growing interest in the recent trends of data analytics tools and technologies applied to different branches of business in different domains either as a data analyst. At the present clock, my fascination for data analytics and machine learning grabbed my urge to explore the convergence of both statistics and programming.
